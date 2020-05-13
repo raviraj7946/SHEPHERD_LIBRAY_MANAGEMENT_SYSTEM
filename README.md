@@ -20,8 +20,6 @@ A simple and functional Library Management System Implemented in python 3 (Tkint
 
 # Brief Introduction
 
-A student can issue a book for 15 days.After that the student have to renew the book, If the student didn't renew the book within the return date the student have to pay fine @ Rs 1/day.A student can take a maximum of 3 books......
+A student can issue a book for 03 days.After that the student have to renew the book, If the student didn't renew the book within the return date the student have to pay fine @ Rs 1/day.A student can take a maximum of 3 books......
 
-# IMPORTANT
 
-After installing create a folder with name Temp Images on the same folder and add the 48-512.png image on it..
